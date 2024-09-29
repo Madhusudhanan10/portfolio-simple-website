@@ -1,5 +1,3 @@
-# portfolio-simple-website
-
 # Portfolio Website
 
 Welcome to my portfolio website! This project features a simple yet elegant design that highlights my skills and provides a way for potential clients and collaborators to get in touch.
